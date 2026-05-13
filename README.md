@@ -139,4 +139,4 @@ O dashboard permite:
 
 ---
 ## Preview do Dashboard
-**![Dashboard](images/dashboard_analitico.JPG)**
+**![Dashboard](image/dashboard_analitico.JPG)**
